@@ -8,9 +8,9 @@
 
 A easy way to handler with Go server.
 
-</div>
-
 ---
 
 |  Reinvent the wheel, things change better.  |
 | :------: |
+
+</div>
