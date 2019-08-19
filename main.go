@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"go.zoe.im/gone/hack/goser/cmd"
+	"go.zoe.im/goser/cmd"
 )
 
 func main() {
